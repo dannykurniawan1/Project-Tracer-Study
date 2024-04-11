@@ -1,0 +1,12 @@
+com.example.tracer_study.app-jetified-window-java-1.0.0-beta04-0 C:\Users\danny\.gradle\caches\transforms-3\18deafea6fd8bd15b4ac488481ce7189\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.tracer_study.app-core-1.6.0-1 C:\Users\danny\.gradle\caches\transforms-3\87955219ada9e4e421baba4d189bfc74\transformed\core-1.6.0\res
+com.example.tracer_study.app-jetified-window-1.0.0-beta04-2 C:\Users\danny\.gradle\caches\transforms-3\cc5bad0ed8e76ce4cfc4c687e304cead\transformed\jetified-window-1.0.0-beta04\res
+com.example.tracer_study.app-jetified-annotation-experimental-1.1.0-3 C:\Users\danny\.gradle\caches\transforms-3\f57c9dcbaac671d409c90afd181b1c28\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.tracer_study.app-debug-4 C:\Users\danny\OneDrive\Desktop\Project Tracer Study\tracer_study\android\app\src\debug\res
+com.example.tracer_study.app-main-5 C:\Users\danny\OneDrive\Desktop\Project Tracer Study\tracer_study\android\app\src\main\res
+com.example.tracer_study.app-pngs-6 C:\Users\danny\OneDrive\Desktop\Project Tracer Study\tracer_study\build\app\generated\res\pngs\debug
+com.example.tracer_study.app-resValues-7 C:\Users\danny\OneDrive\Desktop\Project Tracer Study\tracer_study\build\app\generated\res\resValues\debug
+com.example.tracer_study.app-rs-8 C:\Users\danny\OneDrive\Desktop\Project Tracer Study\tracer_study\build\app\generated\res\rs\debug
+com.example.tracer_study.app-mergeDebugResources-9 C:\Users\danny\OneDrive\Desktop\Project Tracer Study\tracer_study\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.tracer_study.app-mergeDebugResources-10 C:\Users\danny\OneDrive\Desktop\Project Tracer Study\tracer_study\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.tracer_study.app-merged_res-11 C:\Users\danny\OneDrive\Desktop\Project Tracer Study\tracer_study\build\app\intermediates\merged_res\debug

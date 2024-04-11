@@ -1,0 +1,1 @@
+ C:\\Users\\danny\\OneDrive\\Desktop\\Project\ Tracer\ Study\\tracer_study\\.dart_tool\\flutter_build\\057a745b3443c9fe95764466a8752cd7\\native_assets.yaml: 
